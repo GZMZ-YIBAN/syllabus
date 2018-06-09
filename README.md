@@ -1,8 +1,9 @@
 # syllabus
 基于易班开发的课程表轻应用
-文件夹 PATH 列表
-卷序列号为 481B-D158
-D:\SYLLABUS
+
+项目结构
+```
++- SYLLABUS
 │  about.php
 │  class.php
 │  college.php
@@ -28,3 +29,4 @@ D:\SYLLABUS
 └─sql
         syllabus.sql
         
+```
