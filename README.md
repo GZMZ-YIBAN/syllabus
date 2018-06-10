@@ -1,9 +1,9 @@
 # syllabus
 基于易班开发的课程表轻应用
-## 配置文件config.php
+# 配置文件config.php
 初次使用需要修改config.php中的数据库连接信息以及易班项目id以及key
 
-项目结构
+# 项目结构
 ```
 +- SYLLABUS
 │  about.php
